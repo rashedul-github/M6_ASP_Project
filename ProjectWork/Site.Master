@@ -1,0 +1,99 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ProjectWork.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Project: <%: Page.Title %></title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="/Content/css/materialize.css" rel="stylesheet" />
+    <script src="/Content/jquery.js/jquery-3.5.1.js"></script>
+    <style>
+        body {
+             font-family: 'Roboto', sans-serif;
+             background-color: #cbeaed;
+        }
+        nav a.sidenav-trigger {
+            display:inline-block;
+        }
+        .con{
+            padding-left:25px;
+            padding-right:25px;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <nav id="">
+            <div class="nav-wrapper" style="background-color: #87556f;">
+                <a href="/Default.aspx" data-target="slide-out" class="sidenav-trigger btn-small" style="background-color: #87556f;"><i class="material-icons">menu</i></a>
+                <a href="/Default.aspx" class="brand-logo">
+                    <img width="30" src="/Images/bag.svg" />
+                    ABC Online Shop </a>
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="/Default.aspx"><i class="material-icons left">home</i>Home</a></li>
+                    <li><a href="/ViewProducts/MasterDetail.aspx"><i class="material-icons left">grain</i>Master Detail</a></li>
+                </ul>
+                 <ul class="right hide-on-med-and-down">
+                    <asp:LoginView ID="LoginView1" runat="server">
+                        <LoggedInTemplate>
+                            <li>
+                                <span>
+                                    <i class="material-icons left">person</i> <asp:LoginName id="LoggedUser" runat="server"/>
+                                </span>
+                            </li>
+                            <li>
+                               <asp:LinkButton ID="lbLoggedOut"  runat="server" OnClick="lbLoggedOut_Click">Sign Out</asp:LinkButton>
+                            </li>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </ul>
+            </div>
+        </nav>
+        <ul id="slide-out" class="sidenav">
+            <li><a class="collection-header" style="background-color: #87556f">
+                <img width="15" src="/Images/bag.svg" />
+                ABC Online Shop</a></li>
+            <li><a href="/Default.aspx"><i class="material-icons left">home</i>Home</a></li>
+            <li><a href="/ViewProducts/MasterDetail.aspx"><i class="material-icons left">grain</i>Master Detail</a></li>
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a class="subheader"><i class="material-icons left">lock_outline</i> Admin pages</a></li>
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a href="/Login.aspx"><i class="material-icons left">person_add</i> Sign in</a></li>
+            <li><a class='dropdown-trigger' href='#' data-target='dropdown1'>Expand me ! <i class="material-icons right">arrow_drop_down</i></a></li>
+        </ul>
+        <ul id='dropdown1' class='dropdown-content'>
+            <li><a href="/Secure/Categories.aspx">Product Categories</a></li>
+            <li><a href="/Secure/Porducts.aspx">Products</a></li>
+             <li><a href="/Secure/Summary.aspx">Summary</a></li>
+        </ul>
+        <div class="con" style="min-height:77vh;">
+            <asp:ContentPlaceHolder ID="body" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+       <div class="row">
+           <hr />
+           <div class="col"><i>&copy; All Right Recieved 2020</i></div>
+            <div class="col right"><i>rashedul.info@yahoo.com</i></div>
+       </div>
+    </form>
+    <script src="/Content/js/materialize.js"></script>
+    <script>
+        $(document).ready(() => {
+            $('.sidenav').sidenav();
+            $('#pushpin').pushpin();
+            $('.dropdown-trigger').dropdown();
+        });
+    </script>
+</body>
+</html>

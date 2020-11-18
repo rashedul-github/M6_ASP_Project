@@ -1,0 +1,345 @@
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll.config
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.pdb
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe.config
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.rsp
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe.config
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.rsp
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Managed.Core.targets
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.AppContext.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Collections.Immutable.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Console.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Compression.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Reflection.Metadata.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.AccessControl.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Claims.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Principal.Windows.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.ValueTuple.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XmlDocument.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe.config
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.rsp
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe.config
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CopyComplete
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.pdb
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Owin.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.xml
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\AspNet.ScriptManager.jQuery.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\module_05\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll.config
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.pdb
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe.config
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.rsp
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe.config
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.rsp
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Managed.Core.targets
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.AppContext.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Collections.Immutable.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Console.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Compression.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Reflection.Metadata.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.AccessControl.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Claims.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Principal.Windows.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.ValueTuple.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XmlDocument.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe.config
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.rsp
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe.config
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\AspNet.ScriptManager.jQuery.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Owin.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CopyComplete
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.dll
+G:\module_05_M6\new works\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.pdb
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll.config
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.pdb
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe.config
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.rsp
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe.config
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.rsp
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Managed.Core.targets
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.AppContext.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Collections.Immutable.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Console.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Compression.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Reflection.Metadata.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.AccessControl.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Claims.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Principal.Windows.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.ValueTuple.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XmlDocument.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe.config
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.rsp
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe.config
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\AspNet.ScriptManager.jQuery.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Owin.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CopyComplete
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.dll
+G:\module_07\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.pdb
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll.config
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\ProjectWork.pdb
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.exe.config
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csc.rsp
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.exe.config
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\csi.rsp
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.Managed.Core.targets
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.AppContext.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Collections.Immutable.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Console.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Compression.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.IO.Pipes.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Reflection.Metadata.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.AccessControl.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Claims.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Security.Principal.Windows.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.ValueTuple.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XmlDocument.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.exe.config
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\vbc.rsp
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\roslyn\VBCSCompiler.exe.config
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\AspNet.ScriptManager.jQuery.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.CrystalReports.Engine.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportSource.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.Shared.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.Web.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Owin.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\stdole.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\EntityFramework.SqlServer.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Core.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.Cookies.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.Owin.Security.OAuth.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Newtonsoft.Json.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csproj.CopyComplete
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.dll
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.pdb
+G:\module_07\M6_Project\M6_ASP.Net_Project_Rashedul\M6_Project\ProjectWorkSln\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
